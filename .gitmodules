@@ -4,9 +4,6 @@
 [submodule "thirdparty/imgui"]
 	path = thirdparty/imgui
 	url = https://github.com/ocornut/imgui.git
-[submodule "thirdparty/tensorflow"]
-	path = thirdparty/tensorflow
-	url = https://github.com/tensorflow/tensorflow.git
 [submodule "thirdparty/base64"]
 	path = thirdparty/base64
 	url = git@github.com:aklomp/base64.git
@@ -16,3 +13,4 @@
 [submodule "thirdparty/enet"]
 	path = thirdparty/enet
 	url = git@github.com:Moddingear/enet.git
+d
