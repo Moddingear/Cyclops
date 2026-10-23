@@ -13,4 +13,3 @@
 [submodule "thirdparty/enet"]
 	path = thirdparty/enet
 	url = git@github.com:Moddingear/enet.git
-d
